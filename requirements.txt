@@ -12,7 +12,7 @@ g4f
 nest-asyncio==1.6.0
 python-dotenv==1.0.1
 # python-Levenshtein==0.25.1
-requests==2.32.3
+requests==2.32.4
 ## Removed: MariaDB/MySQL deps after migration to SQLite
 python-dateutil==2.9.0
 aiofiles
